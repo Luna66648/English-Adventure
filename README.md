@@ -1,5 +1,5 @@
 # 🎓 ENGLISH ADVENTURE
-![Uploading image.png…]()
+Screenshot 2026-04-10 012609.png
 
 ## Интерактивный тренажёр по английскому языку для 1-9 классов
 
